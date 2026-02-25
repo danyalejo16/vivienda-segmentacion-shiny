@@ -1,4 +1,4 @@
-````md
+
 # Dashboard Vivienda – Beneficiarios (R Shiny)
 
 Aplicación web en **R Shiny** para **explorar, filtrar y analizar** una base de datos de beneficiarios de vivienda. Permite segmentación por **sexo**, **provincia/cantón**, **segmento**, condición **CONADIS** y **rango de ingresos**. Incluye gráficos interactivos, estadísticas interpretadas, semáforo financiero (déficit y ratio gasto/ingreso), rankings y descarga de datos filtrados.
@@ -35,7 +35,6 @@ Aplicación web en **R Shiny** para **explorar, filtrar y analizar** una base de
 install.packages(c("shiny","ggplot2","plotly","dplyr","DT","janitor"))
 ````
 
----
 
 ## Estructura sugerida del proyecto
 
