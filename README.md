@@ -96,6 +96,10 @@ El archivo CSV contiene información de beneficiarios. Si los datos son sensible
 Define tu licencia (por ejemplo **MIT**) o elimina esta sección si no aplica.
 
 ```
-
 ::contentReference[oaicite:0]{index=0}
 ```
+## Link App
+```
+https://ystk4z-daniel-benavides.shinyapps.io/APP_R_FINANCIAMIENTO_VIVIENDAS/
+```
+
