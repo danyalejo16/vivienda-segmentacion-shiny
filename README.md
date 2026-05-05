@@ -100,6 +100,6 @@ Define tu licencia (por ejemplo **MIT**) o elimina esta sección si no aplica.
 ```
 ## Link App
 ```
-https://ystk4z-daniel-benavides.shinyapps.io/APP_R_FINANCIAMIENTO_VIVIENDAS/
+ https://daniel-alejandro-benavides.shinyapps.io/APP_R_FINANCIAMIENTO_VIVIENDAS/
 ```
 
